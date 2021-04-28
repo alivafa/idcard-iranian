@@ -1,3 +1,5 @@
+
+//introduce variable and funcion
 const butt=document.getElementById('butt');
 const sheba=document.getElementById('meli');
 butt.addEventListener('click' ,add);
